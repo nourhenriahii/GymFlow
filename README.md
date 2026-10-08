@@ -3,6 +3,9 @@
 > A full-stack MERN application designed to help gyms and fitness centers manage their daily operations, members, subscriptions, payments, appointments, and activities through one simple and modern platform.
 
 ---
+Project Partner
+I intend to work alone on this project
+---
 
 ## 📌 Project Overview
 
